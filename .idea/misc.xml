@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/HDFS/pom.xml" />
+        <option value="$PROJECT_DIR$/HBase/pom.xml" />
       </list>
     </option>
   </component>

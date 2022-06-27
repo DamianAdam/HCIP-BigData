@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HDFS" />
+        <module name="HBase" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HBase" target="8" />
       <module name="HDFS" target="8" />
     </bytecodeTargetLevel>
   </component>
